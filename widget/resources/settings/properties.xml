@@ -1,0 +1,4 @@
+<properties>
+  <property id="ServerUrl" type="string">http://192.168.1.100:5000</property>
+  <property id="ApiKey"    type="string"></property>
+</properties>

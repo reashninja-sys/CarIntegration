@@ -1,0 +1,6 @@
+backend/.env
+*.pyc
+__pycache__/
+*.log
+*.prg
+*.iq

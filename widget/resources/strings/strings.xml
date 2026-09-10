@@ -1,0 +1,5 @@
+<strings>
+  <string id="AppName">Cupra Battery</string>
+  <string id="ServerUrlLabel">Server URL</string>
+  <string id="ApiKeyLabel">Api Key</string>
+</strings>

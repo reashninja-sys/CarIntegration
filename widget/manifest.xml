@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<iq:manifest xmlns:iq="com.garmin.connect.iq" version="3">
+  <iq:application
+      id="a3e5f718-b3d2-4c9e-8f1a-2d6c0e4b7a9f"
+      name="CupraBattery"
+      launchLabel="Cupra Battery"
+      minSdkVersion="3.2.0"
+      targetSdkVersion="4.1.7"
+      type="widget">
+
+    <iq:products>
+      <iq:product id="vivoactive4"/>
+      <iq:product id="vivoactive4s"/>
+    </iq:products>
+
+    <iq:permissions>
+      <iq:uses-permission id="Communications"/>
+    </iq:permissions>
+
+    <iq:languages>
+      <iq:language id="eng"/>
+    </iq:languages>
+
+  </iq:application>
+</iq:manifest>

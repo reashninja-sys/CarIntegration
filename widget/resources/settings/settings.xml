@@ -1,0 +1,8 @@
+<settings>
+  <setting propertyKey="@Properties.ServerUrl" title="@Strings.ServerUrlLabel">
+    <settingConfig type="string"/>
+  </setting>
+  <setting propertyKey="@Properties.ApiKey" title="@Strings.ApiKeyLabel">
+    <settingConfig type="string"/>
+  </setting>
+</settings>
