@@ -10,7 +10,7 @@ echo "=== Installing Python ==="
 pkg install python -y
 
 echo "=== Installing Python dependencies ==="
-pip install flask python-dotenv seatconnect aiohttp
+pip install flask python-dotenv aiohttp
 
 echo ""
 echo "=== Done! Next steps ==="

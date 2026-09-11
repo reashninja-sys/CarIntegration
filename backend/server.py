@@ -154,7 +154,7 @@ def _lan_ip() -> str:
 
 
 if __name__ == "__main__":
-    logger.info("Initial Cupra fetch via seatconnect …")
+    logger.info("Initial Cupra data fetch …")
     try:
         _fetch()
     except Exception as exc:
